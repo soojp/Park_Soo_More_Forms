@@ -1,0 +1,19 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgb(245, 242, 242);
+    border-radius: 1rem;
+    color: darkgrey;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    text-align: center;
+}
